@@ -1,0 +1,8 @@
+Age_Group,Min_Age,Max_Age,Min_Sleep_Hours_Per_Day,Max_Sleep_Hours_Per_Day
+Toddler,1,2,11,14
+Preschool,3,5,10,13
+School Age,6,12,9,12
+Teen,13,17,8,10
+Young Adult,18,24,7,9
+Adult,25,64,7,9
+Older Adult,65,117,7,8
